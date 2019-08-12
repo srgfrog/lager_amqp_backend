@@ -14,7 +14,7 @@ becomes unusable, the backend will reconnect.
 
 Include this backend into your project using rebar:
 
-    {lager_amqp_backend, ".*", {git, "https://github.com/jbrisbin/lager_amqp_backend.git", "master"}}
+    {lager_amqp_backend, ".*", {git, "https://github.com/srgfrog/lager_amqp_backend.git", "master"}}
 
 ### Configuration
 
@@ -37,4 +37,4 @@ You can pass the backend the following configuration (shown are the defaults):
 
 ### License
 
-Apache 2.0, just like everything else I do. :)
+Apache 2.0
